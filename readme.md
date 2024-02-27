@@ -5,6 +5,7 @@ BigSEO is a ExpresJS module built for apps who need a SEO Engine exclusively for
 BigSEO is a simple middleware for expressjs to handle crawler requests.
 
 ```npm install bigseo --save```
+help yout
 
 Things you can make crawlers see if you use BigSEO:
 
